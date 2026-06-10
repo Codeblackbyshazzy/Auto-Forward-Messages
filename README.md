@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Auto Forward Messages](https://img.shields.io/badge/Auto%20Forward-Messages-blue?style=for-the-badge&logo=telegram)
-![Version](https://img.shields.io/badge/Version-1.0.49-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0.51-green?style=for-the-badge)
 ![AI Powered](https://img.shields.io/badge/AI-Powered-red?style=for-the-badge&logo=openai)
 ![Platform](https://img.shields.io/badge/Platforms-iOS%20%7C%20Android%20%7C%20Web%20%7C%20Bot-blueviolet?style=for-the-badge)
 
